@@ -1,0 +1,40 @@
+English 
+s
+1. Write the definiƟons of the following words.
+Automated = ruled by a numeric or physical mechanim
+Bug = a novive programm that does damages to your software or hardware.
+Default = a default value is the basic value or configuration for hardware, that youf ind by uding it at the first timr
+Directory = a directory is some kind of important depository
+IntegraƟon =integration is the moment when you put and build together the front end and the back end
+Package = a package is a group, a set of several things belonging to the same task type
+Plugin = a plugging is a tool, whatever, that you connect into your computer's plugg.
+Repository = is a fancy name for depository
+Server = it's the central computer which receive the requests and giveaccess to data
+2. Write the English translaƟon of the following words. Use a dicƟonary or online translaƟon
+resources if you need.
+Installer = to set up
+Le réseau = the net
+Base de données = database
+Commande = command / instruction
+Télécharger = download
+Les exigences = the requirements
+OuƟl = tool
+3. Fill in the blanks with the word that you think is the best fit for each.
+Modifies Terminal Run
+Generate Navigate Configure
+Execute Enable Report
+1. Open your console ___Terminal____________ and _execute________________ this command: symfony
+check:requirements.
+2. If you want to _report______________ a bug or suggest a new feature, please create an issue on
+symfony/cli.
+3. All of them will create a new my_project_name/ directory, download some dependencies into
+it and even ____enable_____________ the basic directories and files you’ll need to get started.
+4. Open your browser and ___run__________________ to hƩp://localhost:8000/.
+5. In producƟon, you should install a webserver like Nginx or Apache and __configure_______________ it
+to run Symfony.
+6. Packages usually require some setup before using them (ediƟng some file to
+__generate______________ the bundle, creaƟng some file to add some iniƟal config, etc.)
+7. Symfony Flex _modifies_________________ the behavior of the require, update, and remove
+Composer commands to provide advanced features.
+8. A good security pracƟce is to __execute_______________ this command regularly to be able to
+update or replace compromised dependencies as soon as possible.
